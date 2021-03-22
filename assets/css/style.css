@@ -651,14 +651,12 @@ section {
     color: #fff;
 }
 
-.team-section img {
+.team section img {
     height: 300px !important;
     width: 100%;
     display: block;
     align-items: center !important;
 }
-
-
 /*animations*/
 
 .ubutia-card .ubutia-card-header .card-icon:after {
